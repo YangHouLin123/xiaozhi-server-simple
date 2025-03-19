@@ -71,3 +71,13 @@
 2025-03-18 16:39:51 - simple_websocket_server - INFO - simple_websocket_server - =======上面的地址是websocket协议地址，请勿用浏览器访问=======
 2025-03-18 16:50:31 - simple_websocket_server - INFO - simple_websocket_server - Client disconnected
 2025-03-18 16:54:52 - simple_websocket_server - INFO - simple_websocket_server - Client disconnected
+2025-03-18 17:34:30 - simple_websocket_server - INFO - simple_websocket_server - Client disconnected
+2025-03-18 17:34:38 - simple_websocket_server - INFO - simple_websocket_server - Server is running at ws://192.168.1.127:8000
+2025-03-18 17:34:38 - simple_websocket_server - INFO - simple_websocket_server - =======上面的地址是websocket协议地址，请勿用浏览器访问=======
+2025-03-18 17:34:47 - simple_websocket_server - INFO - simple_websocket_server - Server is running at ws://192.168.1.127:8000
+2025-03-18 17:34:47 - simple_websocket_server - INFO - simple_websocket_server - =======上面的地址是websocket协议地址，请勿用浏览器访问=======
+2025-03-18 17:35:59 - simple_websocket_server - INFO - simple_websocket_server - Client disconnected
+2025-03-18 17:37:08 - simple_websocket_server - INFO - simple_websocket_server - Server is running at ws://192.168.1.127:8000
+2025-03-18 17:37:08 - simple_websocket_server - INFO - simple_websocket_server - =======上面的地址是websocket协议地址，请勿用浏览器访问=======
+2025-03-18 17:37:15 - simple_websocket_server - INFO - simple_websocket_server - Server is running at ws://192.168.1.127:8000
+2025-03-18 17:37:15 - simple_websocket_server - INFO - simple_websocket_server - =======上面的地址是websocket协议地址，请勿用浏览器访问=======

@@ -95,7 +95,7 @@ class SimpleWebSocketServer:
                         })
                         await websocket.send(response)
                         # 添加小延迟，确保流式输出更均匀
-                        await asyncio.sleep(0.05)
+                        await asyncio.sleep(0.01)
                     
                     # 发送流式响应结束标记
                     response = json.dumps({

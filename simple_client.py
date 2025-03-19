@@ -66,7 +66,7 @@ async def receive_messages(websocket):
                         if "stream" in data:
                             if data["stream"]:
                                 # 流式输出中，不换行，直接输出内容
-                                print(f"AI: {data['content']}", end="", flush=True)
+                                print(f"{data['content']}", end="", flush=True)
                             else:
                                 # 流式输出结束，换行并显示提示符
                                 print("\n>> ", end="", flush=True)
